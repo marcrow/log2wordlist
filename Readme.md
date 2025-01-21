@@ -20,6 +20,14 @@ I use it on my honeypot servers to generate wordlists based on bot sollicitation
 ## Requirements
 - Python 3.x
 
+## Installation
+
+```bash
+git clone https://github.com/marcrow/log2wordlist.git
+cd log2wordlist
+mkdir results
+```
+
 ## Usage
 
 Tips: if you have log rotate use this command to extract gz content to a single file: 
